@@ -8,45 +8,45 @@
 
 # **CONTENT**
 
-[**What is Amazon EC2?**](#_y35s8wph3caz)
+[**What is Amazon EC2?**](#What-is-Amazon-EC2?)
 
-[**Instances**](#instances)
+[**Instances**](#Instances)
 
-[Steps to Launch an Instance](#steps-to-launch-an-instance)
+[Steps to Launch an Instance](#Steps-to-launch-an-instance)
 
-[**Stop and terminate instances**](#_c4ml47a61zuo)
+[**Stop and terminate instances**](#Stop-and-terminate-instances)
 
-[Stop an instance ](#_xucylldmbzkw)
+[Stop an instance ](#Stop-an-instance)
 
-[Terminate an instance ](#_kwk3hevaqe4c)
+[Terminate an instance ](#Terminate-an-instance)
 
-[**Types of Instances**](#_m31zczanyy3d)
+[**Types of Instances**](#Types-of-Instances)
 
-[1) General purpose ](#_t4utyyuhpqno)
+[1) General purpose ](#1)-General-purpose)
 
-[2) Compute optimized ](#_kr4vh0ghvmfg)
+[2) Compute optimized ](#2)-Compute-optimized)
 
-[3) Memory optimized ](#_2npdk1hiqqob)
+[3) Memory optimized ](#)3)-Memory-optimized)
 
-[4) Storage optimized ](#_bv4rqvf3gc24)
+[4) Storage optimized ](#4)-Storage-optimized)
 
-[5) Accelerated computing ](#_7cl0ishvay98)
+[5) Accelerated computing ](#5)-Accelerated-computing)
 
-[6) High-performance computing (HPC) ](#_b0uvr5kt70v6)
+[6) High-performance computing (HPC) ](#6)-High-performance-computing-(HPC))
 
-[**Launch Template**](#_fx0hazfzhue)
+[**Launch Template**](#Launch-Template)
 
-[**AWS Cloud EC2 Pricing**](#_ozv1dnnuw1bl)
+[**AWS Cloud EC2 Pricing**](#AWS Cloud-EC2-Pricing)
 
-[1). Savings Plans](#_4ersdew2br5b)
+[1). Savings Plans](#1)-Saving-Plans)
 
-[2). Reserved Instances ](#_ebu5o6jcbf4h)
+[2). Reserved Instances ](#2).-Reserved-Instances)
 
-[3). Spot Request](#_s5626bb41fqv)
+[3). Spot Request](#3).-Spot-Requests)
 
-[4). Dedicated Hosts ](#_nf478ah7sm3w)
+[4). Dedicated Hosts ](#4).-Dedicated-Hostes)
 
-[**Reference Links**](#_xfzkok7akntr)
+[**Reference Links**](#Reference-Links)
 
 ##
 # **What is Amazon EC2?**
