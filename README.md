@@ -95,17 +95,18 @@ Then go to the search bar, search for EC2 and click on EC2.
 
 ![](https://i.postimg.cc/mkrKdFGH/Screenshot-from-2024-02-01-12-16-43.png)
 
+##
 **Step 2:**
 
 After that you will get the interface as shown below. Then, you have to click on the Instance (running) option or simply on Instance option.
 
-![]()
+![](https://i.postimg.cc/3xgvK3Nk/Screenshot-from-2024-02-01-13-25-14.png)
 
 **Step 3** :
 
 On clicking on the instance (running) option, you will get the Launch Instance option on your screen as shown below.
 
-![]()
+![](https://i.postimg.cc/pT190TG6/Screenshot-from-2024-02-01-13-25-17.png)
 
 Then click on the Launch Instance box.
 
@@ -227,24 +228,23 @@ The types of instances are categorized on the basis of the requirements of servi
 5. Accelerated computing
 6. High-performance computing (HPC) optimized
 
-1.
 ##
-## **General purpose:**
+## **1. General purpose:**
 
 The General Purpose Instance balances computing, memory, and networking resources.
 
 These are cost effective and best in the use where you need less processing.
-2.
+
 ##
-## **Compute optimized**
+## **2. Compute optimized**
 
 The Compute Optimized Instances are best when there is a need for high computation.
 
 The main difference is that this type is ideal for high-performance and compute-intensive needs.
 
-3.
+
 ##
-## **Memory optimized**
+## **3. Memory optimized**
 
 This type can deliver large dataset workloads fast.
 
@@ -252,9 +252,8 @@ It loads from storage, holds the data, and processes it before the computer can 
 
 It is mainly used in applications that need multi-tasking.
 
-4.
 ##
-## **Storage optimized**
+## **4. Storage optimized**
 
 This type is best when you have large datasets on local storage and requires a lot of space.
 
@@ -265,9 +264,8 @@ Some examples:
 
 The Storage Optimized Instances are designed to deliver many inputs as fast as possible.
 
-5.
 ##
-## **Accelerated computing**
+## **5. Accelerated computing**
 
 This type uses hardware accelerators.
 
@@ -275,9 +273,8 @@ The accelerators boost the data processing.
 
 The Accelerated Computing Instances are best for graphics applications and streaming.
 
-1.
 ##
-## **High-performance computing (HPC)**
+## **6. High-performance computing (HPC)**
 
 HPC is technology that uses clusters of powerful processors, working in parallel, to process massive multi-dimensional datasets (big data) and solve complex problems at extremely high speeds.
 
