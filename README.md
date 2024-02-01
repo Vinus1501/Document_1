@@ -10,7 +10,7 @@
 
 [**What is Amazon EC2?**](#_y35s8wph3caz)
 
-[**Instances**](#_instances)
+[**Instances**](#instances)
 
 [Steps to Launch an Instance ](#_bvrxh7m4qh93)
 
