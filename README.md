@@ -234,8 +234,7 @@ The types of instances are categorized on the basis of the requirements of servi
 The General Purpose Instance balances computing, memory, and networking resources.
 
 These are cost effective and best in the use where you need less processing.
-
-1.
+2.
 ##
 ## **Compute optimized**
 
@@ -243,7 +242,7 @@ The Compute Optimized Instances are best when there is a need for high computati
 
 The main difference is that this type is ideal for high-performance and compute-intensive needs.
 
-1.
+3.
 ##
 ## **Memory optimized**
 
@@ -253,7 +252,7 @@ It loads from storage, holds the data, and processes it before the computer can 
 
 It is mainly used in applications that need multi-tasking.
 
-1.
+4.
 ##
 ## **Storage optimized**
 
@@ -266,7 +265,7 @@ Some examples:
 
 The Storage Optimized Instances are designed to deliver many inputs as fast as possible.
 
-1.
+5.
 ##
 ## **Accelerated computing**
 
@@ -292,8 +291,6 @@ Imagine you need to create virtual computers in the cloud using Amazon EC2. Inst
 In the launch template, you decide things like which type of virtual machine you want, what operating system it should use, how much memory and processing power it should have, and so on.
 
 ## **Reusability**
-
-## :
 
 Once you've set up your launch template, you can reuse it over and over again. This makes it easy to create multiple virtual machines with the same configurations without having to go through all the settings each time.
 
@@ -345,18 +342,6 @@ It is given to a particular organization for security purposes who wants to purc
 The Dedicated Host is the expensive model.
 
 ##
-
-
-##
-
-
-##
-
-
-##
-
-
-##
 # **Reference Links**
 
 - [https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
@@ -369,4 +354,3 @@ The Dedicated Host is the expensive model.
 
 - [https://www.w3schools.com/aws/aws\_cloudessentials\_ec2instancetypes.php](https://www.w3schools.com/aws/aws_cloudessentials_ec2instancetypes.php)
 
-17
