@@ -8,19 +8,19 @@
 
 # **CONTENT**
 
-[**What is Amazon EC2? 3**](#_y35s8wph3caz)
+[**What is Amazon EC2?**](#_y35s8wph3caz)
 
-[**Instances 5**](#_i27j4xhntcc2)
+[**Instances**](#_i27j4xhntcc2)
 
 [Steps to Launch an Instance ](#_bvrxh7m4qh93)
 
-[**Stop and terminate instances 14**](#_c4ml47a61zuo)
+[**Stop and terminate instances**](#_c4ml47a61zuo)
 
 [Stop an instance ](#_xucylldmbzkw)
 
 [Terminate an instance ](#_kwk3hevaqe4c)
 
-[**Types of Instances 15**](#_m31zczanyy3d)
+[**Types of Instances**](#_m31zczanyy3d)
 
 [1) General purpose: ](#_t4utyyuhpqno)
 
@@ -34,9 +34,9 @@
 
 [6) High-performance computing (HPC) ](#_b0uvr5kt70v6)
 
-[**Launch Template 17**](#_fx0hazfzhue)
+[**Launch Template**](#_fx0hazfzhue)
 
-[**AWS Cloud EC2 Pricing 18**](#_ozv1dnnuw1bl)
+[**AWS Cloud EC2 Pricing**](#_ozv1dnnuw1bl)
 
 [1). Savings Plans](#_4ersdew2br5b)
 
@@ -46,7 +46,7 @@
 
 [4). Dedicated Hosts ](#_nf478ah7sm3w)
 
-[**Reference Links 20**](#_xfzkok7akntr)
+[**Reference Links**](#_xfzkok7akntr)
 
 ##
 # **What is Amazon EC2?**
