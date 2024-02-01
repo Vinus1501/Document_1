@@ -22,29 +22,29 @@
 
 [**Types of Instances**](#Types-of-Instances)
 
-[1) General purpose ](#1)-General-purpose)
+[1) General purpose ](#General-purpose)
 
-[2) Compute optimized ](#2)-Compute-optimized)
+[2) Compute optimized ](#Compute-optimized)
 
-[3) Memory optimized ](#)3)-Memory-optimized)
+[3) Memory optimized ](#Memory-optimized)
 
-[4) Storage optimized ](#4)-Storage-optimized)
+[4) Storage optimized ](#Storage-optimized)
 
-[5) Accelerated computing ](#5)-Accelerated-computing)
+[5) Accelerated computing ](#Accelerated-computing)
 
-[6) High-performance computing (HPC) ](#6)-High-performance-computing-(HPC))
+[6) High-performance computing (HPC) ](#High-performance-computing-(HPC))
 
 [**Launch Template**](#Launch-Template)
 
 [**AWS Cloud EC2 Pricing**](#AWS Cloud-EC2-Pricing)
 
-[1). Savings Plans](#1)-Saving-Plans)
+[1). Savings Plans](#Saving-Plans)
 
-[2). Reserved Instances ](#2).-Reserved-Instances)
+[2). Reserved Instances ](#Reserved-Instances)
 
-[3). Spot Request](#3).-Spot-Requests)
+[3). Spot Request](#Spot-Requests)
 
-[4). Dedicated Hosts ](#4).-Dedicated-Hostes)
+[4). Dedicated Hosts ](#Dedicated-Hostes)
 
 [**Reference Links**](#Reference-Links)
 
