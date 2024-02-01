@@ -12,7 +12,7 @@
 
 [**Instances**](#instances)
 
-[Steps to Launch an Instance ](#_bvrxh7m4qh93)
+[Steps to Launch an Instance](#steps-to-launch-an-instance)
 
 [**Stop and terminate instances**](#_c4ml47a61zuo)
 
