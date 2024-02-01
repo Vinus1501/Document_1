@@ -12,39 +12,39 @@
 
 [**Instances 5**](#_i27j4xhntcc2)
 
-[Steps to Launch an Instance 5](#_bvrxh7m4qh93)
+[Steps to Launch an Instance ](#_bvrxh7m4qh93)
 
 [**Stop and terminate instances 14**](#_c4ml47a61zuo)
 
-[Stop an instance 14](#_xucylldmbzkw)
+[Stop an instance ](#_xucylldmbzkw)
 
-[Terminate an instance 14](#_kwk3hevaqe4c)
+[Terminate an instance ](#_kwk3hevaqe4c)
 
 [**Types of Instances 15**](#_m31zczanyy3d)
 
-[1) General purpose: 15](#_t4utyyuhpqno)
+[1) General purpose: ](#_t4utyyuhpqno)
 
-[2) Compute optimized 16](#_kr4vh0ghvmfg)
+[2) Compute optimized ](#_kr4vh0ghvmfg)
 
-[3) Memory optimized 16](#_2npdk1hiqqob)
+[3) Memory optimized ](#_2npdk1hiqqob)
 
-[4) Storage optimized 16](#_bv4rqvf3gc24)
+[4) Storage optimized ](#_bv4rqvf3gc24)
 
-[5) Accelerated computing 16](#_7cl0ishvay98)
+[5) Accelerated computing ](#_7cl0ishvay98)
 
-[6) High-performance computing (HPC) 17](#_b0uvr5kt70v6)
+[6) High-performance computing (HPC) ](#_b0uvr5kt70v6)
 
 [**Launch Template 17**](#_fx0hazfzhue)
 
 [**AWS Cloud EC2 Pricing 18**](#_ozv1dnnuw1bl)
 
-[1). Savings Plans 18](#_4ersdew2br5b)
+[1). Savings Plans](#_4ersdew2br5b)
 
-[2). Reserved Instances 18](#_ebu5o6jcbf4h)
+[2). Reserved Instances ](#_ebu5o6jcbf4h)
 
-[3). Spot Request 19](#_s5626bb41fqv)
+[3). Spot Request](#_s5626bb41fqv)
 
-[4). Dedicated Hosts 19](#_nf478ah7sm3w)
+[4). Dedicated Hosts ](#_nf478ah7sm3w)
 
 [**Reference Links 20**](#_xfzkok7akntr)
 
