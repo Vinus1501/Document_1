@@ -10,7 +10,7 @@
 
 [**What is Amazon EC2?**](#_y35s8wph3caz)
 
-[**Instances**](#_i27j4xhntcc2)
+[**Instances**](#_instances)
 
 [Steps to Launch an Instance ](#_bvrxh7m4qh93)
 
@@ -22,7 +22,7 @@
 
 [**Types of Instances**](#_m31zczanyy3d)
 
-[1) General purpose: ](#_t4utyyuhpqno)
+[1) General purpose ](#_t4utyyuhpqno)
 
 [2) Compute optimized ](#_kr4vh0ghvmfg)
 
